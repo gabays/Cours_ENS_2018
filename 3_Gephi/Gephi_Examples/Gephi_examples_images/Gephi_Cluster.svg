@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3146.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1650.000000 -790.649414 3146.000000 1508.931152"
+     height="1508.9312" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M -1465.887085,688.042236 C -1339.620483,516.167664 -892.408691,447.755920 -720.534119,574.022583"
+              class="id_BOYER_AGAMEMNON_1680 id_BOYER_ARTAXERCE_1683"
+              stroke-opacity="1.0" stroke="#efa37d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1465.887085,688.042236 C -1504.897583,718.281738 -1608.772705,705.125366 -1639.012207,666.114868"
+              class="id_BOYER_AGAMEMNON_1680 id_RACINE_BERENICE_1671"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -1465.887085,688.042236 C -1495.590088,689.830444 -1542.827026,647.958130 -1544.615234,618.255127"
+              class="id_BOYER_AGAMEMNON_1680 id_RACINE_IPHIGENIE_1675"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1465.887085,688.042236 C -1490.316650,709.218384 -1558.725464,704.338135 -1579.901611,679.908447"
+              class="id_BOYER_AGAMEMNON_1680 id_RACINE_PHEDRE_1697"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -698.292175,468.989044 C -708.394043,406.920685 -630.444275,298.665375 -568.375977,288.563507"
+              class="id_BOYER_AMOURSJUPITERSEMELE_1666 id_BOYER_ARISTODEME_1648"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -698.292175,468.989044 C -681.733826,494.444153 -695.079041,557.464233 -720.534119,574.022583"
+              class="id_BOYER_AMOURSJUPITERSEMELE_1666 id_BOYER_ARTAXERCE_1683"
+              stroke-opacity="1.0" stroke="#efa37d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -698.292175,468.989044 C -718.456726,498.904449 -793.576782,513.530701 -823.492188,493.366089"
+              class="id_BOYER_AMOURSJUPITERSEMELE_1666 id_ROTROU_COSROES_1649"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -698.292175,468.989044 C -741.012207,483.109192 -826.272400,440.209351 -840.392578,397.489349"
+              class="id_BOYER_AMOURSJUPITERSEMELE_1666 id_ROTROU_DOMBERNARDDECABRERE_1647"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -568.375977,288.563507 C -620.847656,316.249146 -741.083740,279.070068 -768.769409,226.598343"
+              class="id_BOYER_ARISTODEME_1648 id_CORNEILLEP_ANDROMEDE_1651"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -568.375977,288.563507 C -562.227600,206.019852 -429.189453,91.427032 -346.645813,97.575447"
+              class="id_BOYER_ARISTODEME_1648 id_ROTROU_DEUXPUCELLES_1639"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -720.534119,574.022583 C -629.743164,442.984802 -297.000214,382.614441 -165.962402,473.405365"
+              class="id_BOYER_ARTAXERCE_1683 id_CORNEILLEP_CID_1682"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -720.534119,574.022583 C -622.349121,405.407898 -222.149597,299.763306 -53.534882,397.948303"
+              class="id_BOYER_ARTAXERCE_1683 id_CORNEILLEP_ILLUSIONCOMIQUE_1639"
+              stroke-opacity="1.0" stroke="#bbc0ab"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -720.534119,574.022583 C -757.257019,578.482910 -819.031860,530.088989 -823.492188,493.366089"
+              class="id_BOYER_ARTAXERCE_1683 id_ROTROU_COSROES_1649"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -768.769409,226.598343 C -591.452515,117.821442 -162.311798,220.631409 -53.534882,397.948303"
+              class="id_CORNEILLEP_ANDROMEDE_1651 id_CORNEILLEP_ILLUSIONCOMIQUE_1639"
+              stroke-opacity="1.0" stroke="#bbc0ab"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -768.769409,226.598343 C -817.332642,359.546844 -1089.600220,486.124756 -1222.548706,437.561554"
+              class="id_CORNEILLEP_ANDROMEDE_1651 id_RACINE_ESTHER_1689"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -768.769409,226.598343 C -748.915833,275.101196 -791.889709,377.635803 -840.392578,397.489349"
+              class="id_CORNEILLEP_ANDROMEDE_1651 id_ROTROU_DOMBERNARDDECABRERE_1647"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -768.769409,226.598343 C -762.580505,61.409554 -505.513947,-177.090271 -340.325165,-170.901352"
+              class="id_CORNEILLEP_ANDROMEDE_1651 id_SCUDERY_MORTDECESAR_1637"
+              stroke-opacity="1.0" stroke="#efa37d"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -165.962402,473.405365 C -158.568314,435.828461 -91.111801,390.554199 -53.534882,397.948303"
+              class="id_CORNEILLEP_CID_1682 id_CORNEILLEP_ILLUSIONCOMIQUE_1639"
+              stroke-opacity="1.0" stroke="#ab646a"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -165.962402,473.405365 C -180.901672,459.491333 -182.439529,416.211365 -168.525497,401.272125"
+              class="id_CORNEILLEP_CID_1682 id_CORNEILLEP_MEDEE_1682"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -53.534882,397.948303 C -75.868240,421.611206 -144.862610,423.605469 -168.525497,401.272125"
+              class="id_CORNEILLEP_ILLUSIONCOMIQUE_1639 id_CORNEILLEP_MEDEE_1682"
+              stroke-opacity="1.0" stroke="#b3928b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -53.534882,397.948303 C -187.476196,346.735718 -311.569275,69.004898 -260.356689,-64.936401"
+              class="id_CORNEILLEP_ILLUSIONCOMIQUE_1639 id_DURYER_CLITOPHON_1632"
+              stroke-opacity="1.0" stroke="#aac9bb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -53.534882,397.948303 C 73.931992,194.379059 570.486206,80.225479 774.055481,207.692352"
+              class="id_CORNEILLEP_ILLUSIONCOMIQUE_1639 id_MOLIERE_AMPHITRYON_1668"
+              stroke-opacity="1.0" stroke="#ab646a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -53.534882,397.948303 C 65.795746,131.178833 644.945923,-89.979462 911.715393,29.351162"
+              class="id_CORNEILLEP_ILLUSIONCOMIQUE_1639 id_MOLIERE_DOMGARCIEDENAVARRE_1682"
+              stroke-opacity="1.0" stroke="#ab646a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -168.525497,401.272125 C -264.888916,376.156830 -371.761108,193.938843 -346.645813,97.575447"
+              class="id_CORNEILLEP_MEDEE_1682 id_ROTROU_DEUXPUCELLES_1639"
+              stroke-opacity="1.0" stroke="#efa37d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -168.525497,401.272125 C -216.107361,384.788422 -262.754608,288.690094 -246.270920,241.108231"
+              class="id_CORNEILLEP_MEDEE_1682 id_ROTROU_HERCULEMOURANT_1636"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1265.236084,-519.519043 C 1320.383423,-552.669800 1452.830688,-519.674866 1485.981445,-464.527527"
+              class="id_CORNEILLET_AMOURALAMODE_1651 id_CORNEILLET_ARIANE_1672"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1265.236084,-519.519043 C 1316.879150,-536.143555 1419.280762,-483.615540 1435.905273,-431.972351"
+              class="id_CORNEILLET_AMOURALAMODE_1651 id_CORNEILLET_BRADAMANTE_1695"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 1265.236084,-519.519043 C 1288.894409,-499.022064 1293.636230,-432.789215 1273.139282,-409.130981"
+              class="id_CORNEILLET_AMOURALAMODE_1651 id_CORNEILLET_GEOLIERDESOISMEME_1655"
+              stroke-opacity="1.0" stroke="#f7d19e"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1265.236084,-519.519043 C 1156.402588,-483.643555 939.339050,-593.080627 903.463562,-701.914124"
+              class="id_CORNEILLET_AMOURALAMODE_1651 id_SCARRON_FAUSSEAPPARENCE_1663"
+              stroke-opacity="1.0" stroke="#f7d19e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1265.236084,-519.519043 C 1190.500977,-460.571838 989.977295,-484.253723 931.030090,-558.988892"
+              class="id_CORNEILLET_AMOURALAMODE_1651 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#91a6aa"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 1485.981445,-464.527527 C 1482.477173,-448.001251 1452.431519,-428.468170 1435.905273,-431.972351"
+              class="id_CORNEILLET_ARIANE_1672 id_CORNEILLET_BRADAMANTE_1695"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1485.981445,-464.527527 C 1454.492310,-410.879791 1326.787109,-377.641876 1273.139282,-409.130981"
+              class="id_CORNEILLET_ARIANE_1672 id_CORNEILLET_GEOLIERDESOISMEME_1655"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1435.905273,-431.972351 C 1407.920288,-394.850891 1310.260742,-381.146057 1273.139282,-409.130981"
+              class="id_CORNEILLET_BRADAMANTE_1695 id_CORNEILLET_GEOLIERDESOISMEME_1655"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1273.139282,-409.130981 C 1288.550903,-249.149750 1071.696655,13.939510 911.715393,29.351162"
+              class="id_CORNEILLET_GEOLIERDESOISMEME_1655 id_MOLIERE_DOMGARCIEDENAVARRE_1682"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1273.139282,-409.130981 C 1174.745850,-370.680725 969.480347,-460.595490 931.030090,-558.988892"
+              class="id_CORNEILLET_GEOLIERDESOISMEME_1655 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#91a6aa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 428.998993,-671.126038 C 417.635468,-635.353333 346.931061,-598.739502 311.158356,-610.103027"
+              class="id_DURYER_CLARIGENE_1639 id_DURYER_DYNAMIS_1653"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 428.998993,-671.126038 C 395.840515,-631.527344 286.704742,-621.867126 247.106064,-655.025635"
+              class="id_DURYER_CLARIGENE_1639 id_DURYER_ESTHER_1644"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 428.998993,-671.126038 C 517.734314,-772.176514 802.413086,-790.649414 903.463562,-701.914124"
+              class="id_DURYER_CLARIGENE_1639 id_SCARRON_FAUSSEAPPARENCE_1663"
+              stroke-opacity="1.0" stroke="#efa37d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 428.998993,-671.126038 C 395.210907,-500.289429 88.273964,-294.716614 -82.562637,-328.504700"
+              class="id_DURYER_CLARIGENE_1639 id_SCUDERY_PRINCEDEGUISE_1636"
+              stroke-opacity="1.0" stroke="#b3928b"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -260.356689,-64.936401 C -245.112137,-15.176207 -296.885620,82.330902 -346.645813,97.575447"
+              class="id_DURYER_CLITOPHON_1632 id_ROTROU_DEUXPUCELLES_1639"
+              stroke-opacity="1.0" stroke="#e5daad"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -260.356689,-64.936401 C -196.330627,-6.544628 -187.879150,177.082153 -246.270920,241.108231"
+              class="id_DURYER_CLITOPHON_1632 id_ROTROU_HERCULEMOURANT_1636"
+              stroke-opacity="1.0" stroke="#d57e6c"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -260.356689,-64.936401 C -297.543365,-70.135696 -345.524475,-133.714661 -340.325165,-170.901352"
+              class="id_DURYER_CLITOPHON_1632 id_SCUDERY_MORTDECESAR_1637"
+              stroke-opacity="1.0" stroke="#ddac8d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -260.356689,-64.936401 C -277.511536,-153.208878 -170.835114,-311.349854 -82.562637,-328.504700"
+              class="id_DURYER_CLITOPHON_1632 id_SCUDERY_PRINCEDEGUISE_1636"
+              stroke-opacity="1.0" stroke="#aac9bb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -260.356689,-64.936401 C -291.255493,-140.639297 -224.049286,-300.541840 -148.346390,-331.440613"
+              class="id_DURYER_CLITOPHON_1632 id_SCUDERY_VASSALGENEREUX_1636"
+              stroke-opacity="1.0" stroke="#e5daad"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 311.158356,-610.103027 C 289.363373,-606.277039 250.932007,-633.230652 247.106064,-655.025635"
+              class="id_DURYER_DYNAMIS_1653 id_DURYER_ESTHER_1644"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 311.158356,-610.103027 C 445.355530,-723.854553 817.278564,-693.186096 931.030090,-558.988892"
+              class="id_DURYER_DYNAMIS_1653 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#897889"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 311.158356,-610.103027 C 288.733826,-475.039185 52.501228,-306.080170 -82.562637,-328.504700"
+              class="id_DURYER_DYNAMIS_1653 id_SCUDERY_PRINCEDEGUISE_1636"
+              stroke-opacity="1.0" stroke="#b3928b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 247.106064,-655.025635 C 232.732574,-511.218109 -4.538887,-317.067139 -148.346390,-331.440613"
+              class="id_DURYER_ESTHER_1644 id_SCUDERY_VASSALGENEREUX_1636"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 774.055481,207.692352 C 782.413818,178.043381 839.424805,146.107468 869.073792,154.465820"
+              class="id_MOLIERE_AMPHITRYON_1668 id_MOLIERE_MISANTHROPE_1667"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 774.055481,207.692352 C 771.000854,173.342438 817.943787,117.235626 852.293701,114.181007"
+              class="id_MOLIERE_AMPHITRYON_1668 id_MOLIERE_TARTUFFE_1669"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 911.715393,29.351162 C 928.210022,62.902412 902.625061,137.971207 869.073792,154.465820"
+              class="id_MOLIERE_DOMGARCIEDENAVARRE_1682 id_MOLIERE_MISANTHROPE_1667"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 869.073792,154.465820 C 857.660828,149.764877 847.592773,125.593987 852.293701,114.181007"
+              class="id_MOLIERE_MISANTHROPE_1667 id_MOLIERE_TARTUFFE_1669"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 852.293701,114.181007 C 733.406982,-36.200260 780.648865,-440.102203 931.030090,-558.988892"
+              class="id_MOLIERE_TARTUFFE_1669 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -1639.012207,666.114868 C -1629.704712,637.663513 -1573.066528,608.947693 -1544.615234,618.255127"
+              class="id_RACINE_BERENICE_1671 id_RACINE_IPHIGENIE_1675"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -1639.012207,666.114868 C -1624.431396,657.051453 -1588.965088,665.327576 -1579.901611,679.908447"
+              class="id_RACINE_BERENICE_1671 id_RACINE_PHEDRE_1697"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -1222.548706,437.561554 C -1250.823364,538.113586 -1444.063232,646.529724 -1544.615234,618.255127"
+              class="id_RACINE_ESTHER_1689 id_RACINE_IPHIGENIE_1675"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1222.548706,437.561554 C -1245.549927,557.501526 -1459.961670,702.909668 -1579.901611,679.908447"
+              class="id_RACINE_ESTHER_1689 id_RACINE_PHEDRE_1697"
+              stroke-opacity="1.0" stroke="#df473c"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -1544.615234,618.255127 C -1539.341797,637.643066 -1560.513672,674.635010 -1579.901611,679.908447"
+              class="id_RACINE_IPHIGENIE_1675 id_RACINE_PHEDRE_1697"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -823.492188,493.366089 C -846.047607,477.570801 -856.187866,420.044769 -840.392578,397.489349"
+              class="id_ROTROU_COSROES_1649 id_ROTROU_DOMBERNARDDECABRERE_1647"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -346.645813,97.575447 C -297.864288,106.207031 -237.639328,192.326691 -246.270920,241.108231"
+              class="id_ROTROU_DEUXPUCELLES_1639 id_ROTROU_HERCULEMOURANT_1636"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -346.645813,97.575447 C -379.045197,-40.457230 -220.595306,-296.105316 -82.562637,-328.504700"
+              class="id_ROTROU_DEUXPUCELLES_1639 id_SCUDERY_PRINCEDEGUISE_1636"
+              stroke-opacity="1.0" stroke="#bbc0ab"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1002.636292,-643.761597 C 988.286804,-648.780273 974.290710,-677.832520 979.309387,-692.182007"
+              class="id_SCARRON_DOMJAPHETDARMENIE_1653 id_SCARRON_ECOLIERDESALAMANQUE_1655"
+              stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1002.636292,-643.761597 C 971.171265,-635.557556 911.667603,-670.449097 903.463562,-701.914124"
+              class="id_SCARRON_DOMJAPHETDARMENIE_1653 id_SCARRON_FAUSSEAPPARENCE_1663"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 1002.636292,-643.761597 C 1005.269592,-612.485840 962.305847,-561.622192 931.030090,-558.988892"
+              class="id_SCARRON_DOMJAPHETDARMENIE_1653 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 979.309387,-692.182007 C 962.193787,-678.959229 916.686340,-684.798523 903.463562,-701.914124"
+              class="id_SCARRON_ECOLIERDESALAMANQUE_1655 id_SCARRON_FAUSSEAPPARENCE_1663"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 979.309387,-692.182007 C 996.292114,-655.887512 967.324585,-575.971619 931.030090,-558.988892"
+              class="id_SCARRON_ECOLIERDESALAMANQUE_1655 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 903.463562,-701.914124 C 937.561890,-678.842407 954.101807,-593.087219 931.030090,-558.988892"
+              class="id_SCARRON_FAUSSEAPPARENCE_1663 id_SCARRON_GARDIENDESOIMEME_1654"
+              stroke-opacity="1.0" stroke="#91a6aa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 931.030090,-558.988892 C 778.951843,-344.074341 228.462723,-249.819885 13.548174,-401.898132"
+              class="id_SCARRON_GARDIENDESOIMEME_1654 id_SCUDERY_ORANTE_1636"
+              stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -340.325165,-170.901352 C -320.293304,-253.974533 -165.635818,-348.536560 -82.562637,-328.504700"
+              class="id_SCUDERY_MORTDECESAR_1637 id_SCUDERY_PRINCEDEGUISE_1636"
+              stroke-opacity="1.0" stroke="#b3928b"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -340.325165,-170.901352 C -334.037262,-241.404953 -218.849991,-337.728516 -148.346390,-331.440613"
+              class="id_SCUDERY_MORTDECESAR_1637 id_SCUDERY_VASSALGENEREUX_1636"
+              stroke-opacity="1.0" stroke="#efa37d"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 13.548174,-401.898132 C 9.004698,-367.997284 -48.661789,-323.961212 -82.562637,-328.504700"
+              class="id_SCUDERY_ORANTE_1636 id_SCUDERY_PRINCEDEGUISE_1636"
+              stroke-opacity="1.0" stroke="#ab646a"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 13.548174,-401.898132 C -4.739236,-355.427734 -101.875969,-313.153198 -148.346390,-331.440613"
+              class="id_SCUDERY_ORANTE_1636 id_SCUDERY_VASSALGENEREUX_1636"
+              stroke-opacity="1.0" stroke="#e7755d"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -82.562637,-328.504700 C -96.306572,-315.935150 -135.776825,-317.696686 -148.346390,-331.440613"
+              class="id_SCUDERY_PRINCEDEGUISE_1636 id_SCUDERY_VASSALGENEREUX_1636"
+              stroke-opacity="1.0" stroke="#bbc0ab"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="-1465.8871"
+                class="id_BOYER_AGAMEMNON_1680" cy="688.04224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="-720.5341"
+                class="id_BOYER_ARTAXERCE_1683" cy="574.0226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-1639.0122"
+                class="id_RACINE_BERENICE_1671" cy="666.11487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="-1544.6152"
+                class="id_RACINE_IPHIGENIE_1675" cy="618.2551" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="-1579.9016"
+                class="id_RACINE_PHEDRE_1697" cy="679.90845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="-698.2922"
+                class="id_BOYER_AMOURSJUPITERSEMELE_1666" cy="468.98904"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-568.376"
+                class="id_BOYER_ARISTODEME_1648" cy="288.5635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-823.4922"
+                class="id_ROTROU_COSROES_1649" cy="493.3661" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-840.3926"
+                class="id_ROTROU_DOMBERNARDDECABRERE_1647" cy="397.48935"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="-768.7694"
+                class="id_CORNEILLEP_ANDROMEDE_1651" cy="226.59834"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="-346.6458"
+                class="id_ROTROU_DEUXPUCELLES_1639" cy="97.57545"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-165.9624"
+                class="id_CORNEILLEP_CID_1682" cy="473.40536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#80afb9" r="10.0" cx="-53.53488"
+                class="id_CORNEILLEP_ILLUSIONCOMIQUE_1639" cy="397.9483"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-1222.5487"
+                class="id_RACINE_ESTHER_1689" cy="437.56155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="-340.32516"
+                class="id_SCUDERY_MORTDECESAR_1637" cy="-170.90135"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="-168.5255"
+                class="id_CORNEILLEP_MEDEE_1682" cy="401.27213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d4e4bd" r="10.0" cx="-260.3567"
+                class="id_DURYER_CLITOPHON_1632" cy="-64.9364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="774.0555"
+                class="id_MOLIERE_AMPHITRYON_1668" cy="207.69235"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="911.7154"
+                class="id_MOLIERE_DOMGARCIEDENAVARRE_1682" cy="29.351162"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="-246.27092"
+                class="id_ROTROU_HERCULEMOURANT_1636" cy="241.10823"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="1265.2361"
+                class="id_CORNEILLET_AMOURALAMODE_1651" cy="-519.51904"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="1485.9814"
+                class="id_CORNEILLET_ARIANE_1672" cy="-464.52753"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="1435.9053"
+                class="id_CORNEILLET_BRADAMANTE_1695" cy="-431.97235"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="1273.1393"
+                class="id_CORNEILLET_GEOLIERDESOISMEME_1655" cy="-409.13098"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="903.46356"
+                class="id_SCARRON_FAUSSEAPPARENCE_1663" cy="-701.9141"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="10.0" cx="931.0301"
+                class="id_SCARRON_GARDIENDESOIMEME_1654" cy="-558.9889"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="428.999"
+                class="id_DURYER_CLARIGENE_1639" cy="-671.12604"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e7755d" r="10.0" cx="311.15836"
+                class="id_DURYER_DYNAMIS_1653" cy="-610.103" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="247.10606"
+                class="id_DURYER_ESTHER_1644" cy="-655.02563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#80afb9" r="10.0" cx="-82.56264"
+                class="id_SCUDERY_PRINCEDEGUISE_1636" cy="-328.5047"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7d19e" r="10.0" cx="-148.34639"
+                class="id_SCUDERY_VASSALGENEREUX_1636" cy="-331.4406"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="869.0738"
+                class="id_MOLIERE_MISANTHROPE_1667" cy="154.46582"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="852.2937"
+                class="id_MOLIERE_TARTUFFE_1669" cy="114.18101" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="1002.6363"
+                class="id_SCARRON_DOMJAPHETDARMENIE_1653" cy="-643.7616"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="979.3094"
+                class="id_SCARRON_ECOLIERDESALAMANQUE_1655" cy="-692.182"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="10.0" cx="13.548174"
+                class="id_SCUDERY_ORANTE_1636" cy="-401.89813" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-1465.8871" y="693.6057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BOYER_AGAMEMNON_1680">
+            BOYER_AGAMEMNON_1680
+        </text>
+        <text font-size="24" x="-720.5341" y="579.58606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BOYER_ARTAXERCE_1683">
+            BOYER_ARTAXERCE_1683
+        </text>
+        <text font-size="24" x="-1639.0122" y="671.6754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RACINE_BERENICE_1671">
+            RACINE_BERENICE_1671
+        </text>
+        <text font-size="24" x="-1544.6152" y="623.8157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RACINE_IPHIGENIE_1675">
+            RACINE_IPHIGENIE_1675
+        </text>
+        <text font-size="24" x="-1579.9016" y="685.469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RACINE_PHEDRE_1697">
+            RACINE_PHEDRE_1697
+        </text>
+        <text font-size="24" x="-698.2922" y="474.55252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BOYER_AMOURSJUPITERSEMELE_1666">
+            BOYER_AMOURSJUPITERSEMELE_1666
+        </text>
+        <text font-size="24" x="-568.376" y="294.12698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BOYER_ARISTODEME_1648">
+            BOYER_ARISTODEME_1648
+        </text>
+        <text font-size="24" x="-823.4922" y="498.92957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ROTROU_COSROES_1649">
+            ROTROU_COSROES_1649
+        </text>
+        <text font-size="24" x="-840.3926" y="403.05283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ROTROU_DOMBERNARDDECABRERE_1647">
+            ROTROU_DOMBERNARDDECABRERE_1647
+        </text>
+        <text font-size="24" x="-768.7694" y="232.16182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLEP_ANDROMEDE_1651">
+            CORNEILLEP_ANDROMEDE_1651
+        </text>
+        <text font-size="24" x="-346.6458" y="103.13892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ROTROU_DEUXPUCELLES_1639">
+            ROTROU_DEUXPUCELLES_1639
+        </text>
+        <text font-size="24" x="-165.9624" y="478.96884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLEP_CID_1682">
+            CORNEILLEP_CID_1682
+        </text>
+        <text font-size="24" x="-53.53488" y="403.51178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLEP_ILLUSIONCOMIQUE_1639">
+            CORNEILLEP_ILLUSIONCOMIQUE_1639
+        </text>
+        <text font-size="24" x="-1222.5487" y="443.1221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RACINE_ESTHER_1689">
+            RACINE_ESTHER_1689
+        </text>
+        <text font-size="24" x="-340.32516" y="-165.33788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCUDERY_MORTDECESAR_1637">
+            SCUDERY_MORTDECESAR_1637
+        </text>
+        <text font-size="24" x="-168.5255" y="406.8356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLEP_MEDEE_1682">
+            CORNEILLEP_MEDEE_1682
+        </text>
+        <text font-size="24" x="-260.3567" y="-59.372925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DURYER_CLITOPHON_1632">
+            DURYER_CLITOPHON_1632
+        </text>
+        <text font-size="24" x="774.0555" y="213.25583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MOLIERE_AMPHITRYON_1668">
+            MOLIERE_AMPHITRYON_1668
+        </text>
+        <text font-size="24" x="911.7154" y="34.91464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MOLIERE_DOMGARCIEDENAVARRE_1682">
+            MOLIERE_DOMGARCIEDENAVARRE_1682
+        </text>
+        <text font-size="24" x="-246.27092" y="246.6717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ROTROU_HERCULEMOURANT_1636">
+            ROTROU_HERCULEMOURANT_1636
+        </text>
+        <text font-size="24" x="1265.2361" y="-513.95557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLET_AMOURALAMODE_1651">
+            CORNEILLET_AMOURALAMODE_1651
+        </text>
+        <text font-size="24" x="1485.9814" y="-458.96405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLET_ARIANE_1672">
+            CORNEILLET_ARIANE_1672
+        </text>
+        <text font-size="24" x="1435.9053" y="-426.40887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLET_BRADAMANTE_1695">
+            CORNEILLET_BRADAMANTE_1695
+        </text>
+        <text font-size="24" x="1273.1393" y="-403.5675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CORNEILLET_GEOLIERDESOISMEME_1655">
+            CORNEILLET_GEOLIERDESOISMEME_1655
+        </text>
+        <text font-size="24" x="903.46356" y="-696.35065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCARRON_FAUSSEAPPARENCE_1663">
+            SCARRON_FAUSSEAPPARENCE_1663
+        </text>
+        <text font-size="24" x="931.0301" y="-553.4254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCARRON_GARDIENDESOIMEME_1654">
+            SCARRON_GARDIENDESOIMEME_1654
+        </text>
+        <text font-size="24" x="428.999" y="-665.5655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DURYER_CLARIGENE_1639">
+            DURYER_CLARIGENE_1639
+        </text>
+        <text font-size="24" x="311.15836" y="-604.5425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DURYER_DYNAMIS_1653">
+            DURYER_DYNAMIS_1653
+        </text>
+        <text font-size="24" x="247.10606" y="-649.4651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DURYER_ESTHER_1644">
+            DURYER_ESTHER_1644
+        </text>
+        <text font-size="24" x="-82.56264" y="-322.94415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCUDERY_PRINCEDEGUISE_1636">
+            SCUDERY_PRINCEDEGUISE_1636
+        </text>
+        <text font-size="24" x="-148.34639" y="-325.88007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCUDERY_VASSALGENEREUX_1636">
+            SCUDERY_VASSALGENEREUX_1636
+        </text>
+        <text font-size="24" x="869.0738" y="160.0293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MOLIERE_MISANTHROPE_1667">
+            MOLIERE_MISANTHROPE_1667
+        </text>
+        <text font-size="24" x="852.2937" y="119.744484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MOLIERE_TARTUFFE_1669">
+            MOLIERE_TARTUFFE_1669
+        </text>
+        <text font-size="24" x="1002.6363" y="-638.1981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCARRON_DOMJAPHETDARMENIE_1653">
+            SCARRON_DOMJAPHETDARMENIE_1653
+        </text>
+        <text font-size="24" x="979.3094" y="-686.6185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCARRON_ECOLIERDESALAMANQUE_1655">
+            SCARRON_ECOLIERDESALAMANQUE_1655
+        </text>
+        <text font-size="24" x="13.548174" y="-396.33466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SCUDERY_ORANTE_1636">
+            SCUDERY_ORANTE_1636
+        </text>
+    </g>
+</svg>
