@@ -1,6 +1,6 @@
 # Visualiser et analyser les données
 
-Cet entrepôt contient le cours dispensé par Simon Gabay et Giovanni Pietro Vitali [digitalkoine](https://github.com/digitalkoine) pour le [Parcours Humanités numériques](https://www.translitterae.fr/parcours-humanites-numeriques/) de l'Ecole normale supérieure de Paris (3 octobre 2018).
+Cet entrepôt contient le cours dispensé par Simon Gabay et Giovanni Pietro Vitali ([GitHub](https://github.com/digitalkoine)) pour le [Parcours Humanités numériques](https://www.translitterae.fr/parcours-humanites-numeriques/) de l'Ecole normale supérieure de Paris (3 octobre 2018).
 
 ## Les cours
 
